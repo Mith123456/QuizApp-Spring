@@ -9,7 +9,7 @@ This repository houses the source code for a Quiz App developed with Java, Postg
 - Quiz participation and scoring
 - Persistent storage using PostgreSQL
 - API testing with Postman
-- [Additional features]
+
 
 ## Technologies Used
 - Java
